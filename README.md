@@ -1,6 +1,6 @@
 # Flutter UI Challenge
 
-### Note: The latest UI challenge is in the top.
+Feel free to use these in your project. Note: The latest UI challenge is in the top.
 
 ## 3. [Doctor booking](https://github.com/qani-ajdini/flutter_ui_doctor_booking)
 ![Design](https://github.com/qani-ajdini/flutter_ui_doctor_booking/raw/master/image/demo.gif)
